@@ -31,6 +31,14 @@
     },
     "resources": [
         {
+            "Key": "011c6c44-af32-4f49-91cb-c2666d5b76f3",
+            "Value": {
+                "id": "dfec89b6-4112-4187-b67c-3b7fb595bfb7",
+                "resourcePath": "sprites\\spr_bullet\\spr_bullet.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "02952da9-9b57-445c-9196-5b80375a6e69",
             "Value": {
                 "id": "4a3331bf-9ae2-4408-989f-440000e165c0",
@@ -63,6 +71,14 @@
             }
         },
         {
+            "Key": "3d9a9d04-ce6d-46a6-bd2a-0c8e42d358bc",
+            "Value": {
+                "id": "dcdb3280-10ba-4dfd-9417-521f33d4beda",
+                "resourcePath": "objects\\obj_debris\\obj_debris.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "3f7d1676-0429-4e1d-a9b1-9a443bc4cc26",
             "Value": {
                 "id": "1af1a653-0631-4c70-9730-18e78ae62237",
@@ -84,6 +100,14 @@
                 "id": "d678e131-1f5f-4c54-9224-6cee589eaf75",
                 "resourcePath": "views\\413b33be-23b2-4254-be09-e65d2d6ea437.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "464ac602-9ac2-4e9c-bf6a-4697c7e797ce",
+            "Value": {
+                "id": "f972e8bd-3f11-4f7f-a5a9-381985f7d1c4",
+                "resourcePath": "objects\\game\\game.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -127,11 +151,27 @@
             }
         },
         {
+            "Key": "66ac6e01-18e5-42ce-a6ab-0f044067f44a",
+            "Value": {
+                "id": "b30d8f65-660e-4a3c-bee0-a7bab8e479a8",
+                "resourcePath": "sprites\\spr_debris\\spr_debris.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "67928441-69f9-4026-8bda-6a858dee3609",
             "Value": {
                 "id": "b966fa15-a172-4799-9fe3-c5cda825bd94",
                 "resourcePath": "views\\67928441-69f9-4026-8bda-6a858dee3609.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "8969ead5-6002-4bec-9ad4-1226d7e5e9a4",
+            "Value": {
+                "id": "2e75bf78-24ec-4bff-b6d6-54f20a91179a",
+                "resourcePath": "objects\\obj_bullet\\obj_bullet.yy",
+                "resourceType": "GMObject"
             }
         },
         {
