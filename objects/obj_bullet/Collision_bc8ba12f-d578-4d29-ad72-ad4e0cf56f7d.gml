@@ -16,4 +16,8 @@ with (other) {
 			inst.sprite_index = spr_asteroid_small;
 		}
 	}
+	
+	repeat (10) {
+		instance_create_layer(x, y, "Instances", obj_debris);
+	}
 }
