@@ -55,6 +55,22 @@
             }
         },
         {
+            "Key": "3a951301-1c37-45e3-b04c-233f71b474c7",
+            "Value": {
+                "id": "97167fac-fbc8-41b2-8666-a9a2b0b08c87",
+                "resourcePath": "sprites\\spr_asteroid_large\\spr_asteroid_large.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "3f7d1676-0429-4e1d-a9b1-9a443bc4cc26",
+            "Value": {
+                "id": "1af1a653-0631-4c70-9730-18e78ae62237",
+                "resourcePath": "sprites\\spr_asteroid_small\\spr_asteroid_small.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "40b89264-32af-45ca-a2c0-31da920b54e5",
             "Value": {
                 "id": "f730a7d2-f3d9-43fb-87f6-a080ea9c3326",
@@ -135,11 +151,27 @@
             }
         },
         {
+            "Key": "9d90f0cf-bd95-4963-a10a-7317d272a7fc",
+            "Value": {
+                "id": "8a709227-00db-414d-bb92-181677a657b3",
+                "resourcePath": "sprites\\spr_ship\\spr_ship.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "a9188620-a624-4a5a-83ae-a1b53faf038b",
             "Value": {
                 "id": "3e9aed55-f83e-457b-b440-5da92d021d7e",
                 "resourcePath": "options\\linux\\options_linux.yy",
                 "resourceType": "GMLinuxOptions"
+            }
+        },
+        {
+            "Key": "cbde693e-ea65-4e8b-a884-58fa0c122da4",
+            "Value": {
+                "id": "9c334f41-e27c-4b0c-ae05-f340566f55a6",
+                "resourcePath": "objects\\obj_ship\\obj_ship.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -167,6 +199,14 @@
             }
         },
         {
+            "Key": "e3b4809d-8700-41a3-b0c0-eb140fe6b0e6",
+            "Value": {
+                "id": "a782543c-8890-49b2-a855-633f9749fb8c",
+                "resourcePath": "objects\\obj_asteroid\\obj_asteroid.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "ebeeacd8-b5d6-4c67-a999-845190c977fb",
             "Value": {
                 "id": "6a8bfb3a-7bc2-4d31-ab76-ec62a4289767",
@@ -180,6 +220,14 @@
                 "id": "4916ed47-b7b1-4e17-b4be-d658c1dca299",
                 "resourcePath": "options\\mac\\options_mac.yy",
                 "resourceType": "GMMacOptions"
+            }
+        },
+        {
+            "Key": "f96de92f-fce2-4c73-883f-178b99a9e256",
+            "Value": {
+                "id": "90b38f9e-ffe5-4cf5-8663-1f0d3cbfccba",
+                "resourcePath": "sprites\\spr_asteroid_med\\spr_asteroid_med.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
