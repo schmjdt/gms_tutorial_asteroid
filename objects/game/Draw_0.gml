@@ -4,6 +4,7 @@ switch(room) {
 	case rm_game:
 		draw_text(20, 20, "Score: " + string(global._score));
 		draw_text(20, 40, "Lives: " + string(global._lives));
+		draw_text(20, 60, "Asteroids: " + string(instance_number(obj_asteroid)));
 		
 		break;		
 	case rm_start:
